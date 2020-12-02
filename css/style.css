@@ -1,0 +1,101 @@
+bode{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 76%;
+    margin: auto;
+    
+}
+.class1{
+    border: 3px solid black;
+    background-color: rgb(21, 167, 167);
+    margin-top: 22px;
+    border-radius: 13px;
+}
+.class2{
+    border: 3px solid black;
+    background-color: rgba(238, 18, 135, 0.938);
+    margin-top: 22px;
+    border-radius: 13px;
+}
+.class3{
+    border: 3px solid black;
+    background-color: rgb(21, 167, 70);
+    margin-top: 22px;
+    border-radius: 13px;
+}
+.class4{
+    border: 3px solid rgb(22 183 16);
+    background-color: rgb(159 143 212);
+    margin-top: 22px;
+    border-radius: 13px;
+}
+.class5{
+    border: 3px solid black;
+    background-color: rgb(21, 167, 167);
+    margin-top: 22px;
+    border-radius: 13px;
+}
+.icon-area ul{
+    list-style: none;
+}
+.icon-area ul li{
+    display: inline-block;
+    font-size: 48px;
+}
+.icon-area ul li  a {
+    padding: 15px 17px;
+    color: white;
+    background-color: black;
+    display: block;
+    border-radius: 17px;
+    margin: 4px;
+}
+.icon-area ul li  a:hover {
+    border-radius: 35px;
+    background-color: rgb(167, 20, 172);
+    color: chartreuse;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.class2 ul li  a {
+    padding: 15px 17px;
+    background-color:rgb(29, 119, 29);
+    border-radius: 17px;
+    margin: 4px;
+}
+.class2 ul li  a:hover {
+    border-radius: 35px;
+    background-color: rgb(5, 151, 66);
+    color: gold;
+    cursor: pointer;
+    transition: 1s;
+}
+.class3 ul li  a {
+    padding: 15px 17px;
+    background-color:darkorange;
+    border-radius: 17px;
+    margin: 4px;
+}
+.class3 ul li  a:hover {
+    border-radius: 35px;
+    background-color: seagreen;
+    color:rgb(128, 0, 0);
+    cursor: pointer;
+    transition: 1s;
+}
+.class4 ul li  a {
+    padding: 15px 17px;
+    background-color:rgb(149, 25, 149);
+    border-radius: 17px;
+    margin: 4px;
+}
+.class4 ul li  a:hover {
+    border-radius: 35px;
+    background-color: seagreen;
+    color:gold;
+    cursor: pointer;
+    transition: 1s;
+}
